@@ -14,7 +14,7 @@ body {
   text-align: center;
   visibility: hidden;
   position: relative;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 .container div.six {
