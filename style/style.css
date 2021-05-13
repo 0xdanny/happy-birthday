@@ -111,7 +111,6 @@ body {
   right: 0;
 }
 
-
 .ten p {
   font-size: 2rem;
   position: absolute;
@@ -249,15 +248,9 @@ body {
   margin: 10px 0 0;
 }
 
-/* .nine,
-.ten {
-  font-size: 1.2rem;
-  font-weight: lighter;
-} */
-
-.eleven p {
-  font-size: 2rem;
-  font-weight: lighter;
+.eleven {
+  display: flex;
+  justify-content: center;
 }
 
 #replay {
