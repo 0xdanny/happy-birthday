@@ -249,8 +249,8 @@ body {
 }
 
 .eleven {
-  /* display: flex;
-  justify-content: center; */
+  margin: 0 auto;
+  font-size: 1rem;
   text-align: left;
 }
 
