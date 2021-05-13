@@ -30,7 +30,7 @@ body {
   top: 0;
 }
 
-.container div.nine {
+.container div.eleven {
   width: 100vw;
   height: 100vh;
   position: fixed;
@@ -234,7 +234,7 @@ body {
   margin: 10px 0 0;
 }
 
-.nine p {
+.eleven p {
   font-size: 2rem;
   font-weight: lighter;
 }
@@ -304,7 +304,7 @@ body {
     font-size: 1.4rem;
   }
 
-  .nine p {
+  .eleven p {
     font-size: 1.5rem;
     font-weight: lighter;
   }
