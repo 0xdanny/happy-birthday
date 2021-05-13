@@ -17,6 +17,10 @@ body {
   overflow: hidden;
 }
 
+.container div.eleven {
+  text-align: left;
+}
+
 .container div.six {
   top: 10vh;
   z-index: 1;
@@ -249,9 +253,12 @@ body {
 }
 
 .eleven {
-  margin: 0 auto;
   font-size: 1rem;
   text-align: left;
+}
+
+.eleven p {
+  display: block;
 }
 
 #replay {
