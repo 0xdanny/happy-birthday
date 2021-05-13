@@ -255,6 +255,7 @@ body {
 
 .eleven p {
   display: block;
+  padding: 10px;
 }
 
 #replay {
