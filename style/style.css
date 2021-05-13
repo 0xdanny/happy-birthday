@@ -104,6 +104,20 @@ body {
   right: 0;
 }
 
+.nine p {
+  font-size: 2rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
+.ten p {
+  font-size: 2rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+}
+
 .idea-3 strong {
   padding: 3px 5px;
   border-radius: 3px;
@@ -233,6 +247,12 @@ body {
   font-size: 2rem;
   margin: 10px 0 0;
 }
+
+/* .nine,
+.ten {
+  font-size: 1.2rem;
+  font-weight: lighter;
+} */
 
 .eleven p {
   font-size: 2rem;
